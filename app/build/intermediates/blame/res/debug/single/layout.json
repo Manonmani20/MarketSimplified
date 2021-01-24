@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/webmac021/Documents/MarketSimplifiedApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/webmac021/Documents/MarketSimplifiedApp/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/webmac021/Documents/MarketSimplifiedApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/detailed_fragment.xml",
+        "source": "/Users/webmac021/Documents/MarketSimplifiedApp/app/src/main/res/layout/detailed_fragment.xml"
+    },
+    {
+        "merged": "/Users/webmac021/Documents/MarketSimplifiedApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/innerlay_repolist.xml",
+        "source": "/Users/webmac021/Documents/MarketSimplifiedApp/app/src/main/res/layout/innerlay_repolist.xml"
+    },
+    {
+        "merged": "/Users/webmac021/Documents/MarketSimplifiedApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_empty.xml",
+        "source": "/Users/webmac021/Documents/MarketSimplifiedApp/app/src/main/res/layout/fragment_empty.xml"
+    }
+]
